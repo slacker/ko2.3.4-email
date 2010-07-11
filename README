@@ -1,0 +1,5 @@
+This is an updated email helper for Kohana 2.3.4 to work with the newer Swift Mailer version 4.
+
+Download the latest version of Swift Mailer from http://github.com/swiftmailer/swiftmailer.git.  Copy the contents of the lib directory into the vendor/swiftmailer director.
+
+Include this module the same way you would any other Kohana module.
